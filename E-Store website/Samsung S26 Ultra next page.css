@@ -1,0 +1,104 @@
+body {
+    background-image: url(images/Bright\ and\ vibrant\ rainbow\ arc.png );
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 465px 0px 0px 0px;
+}
+
+.content {
+    background-color: rgba(254, 254, 254, 0);
+    margin: -280px 1px;
+    padding: 250px 20px 20px 20px;
+}
+
+.content-image {
+    margin: -59px 1px;
+    padding: 79px 10px 9px 49px;
+    display: block;
+    top: 15px;
+    left: 15px;
+    z-index: 10;
+    position: absolute;
+}
+
+.left {
+    display: inline-block;
+    vertical-align: top;
+    text-align: right;
+    padding-right: 10px;
+
+}
+
+.table {
+    background-color: rgba(255, 255, 255, 0);
+    color: #f0f8ff;
+    padding: 31px 1413px 212px 207px;
+    margin: 1px 0px 0px 150px;
+    width: 95px;
+    border-radius: 54px;
+    border-color: rgb(255, 250, 250);
+    text-align: center;
+    position: relative;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: 6px;
+    border-color: rgb(27, 20, 108);
+    box-shadow: 2px 4px 6px 8px rgba(0, 0, 0, 0.7);
+
+}
+
+.text {
+    color: rgb(0, 0, 0);
+    font-family: fantasy;
+    padding: 10px;
+    border-width: 0px;
+    position: absolute;
+    border-collapse: collapse;
+    text-align: center;
+    text-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3);
+    display: block;
+    margin: 52px -112px -309px -5px;
+}
+
+.product-image {
+    padding: 101px 34px 42px -10px;
+    margin: 50px 1px -43px -100px;
+    width: 539px;
+    height: 500px;
+    border-radius: 40px;
+}
+
+.middle {
+    width: 4px;
+    height: 659px;
+    background-color: rgb(20, 26, 90);
+    margin: -710px 33px -197px 969px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.right {
+
+    margin: -605px 0px 0px 997px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-family: system-ui;
+    font-size: larger;
+}
+
+select {
+    margin: 12px 2px;
+    padding: 6px 12px;
+
+    color: #012d7c;
+
+    border-radius: 10px;
+}
+
+button {
+    margin: 12px 2px;
+    padding: 6px 12px;
+
+    color: #012d7c;
+
+    border-radius: 10px;
+}
